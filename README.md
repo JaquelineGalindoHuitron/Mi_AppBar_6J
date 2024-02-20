@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 
-# Mi sideño usando AppBar y sus caracteristicas
+# Mi diseño usando AppBar y sus caracteristicas
 ![image](https://github.com/JaquelineGalindoHuitron/Mi_AppBar_6J/assets/143548375/b66e6fd6-c5f1-4767-9308-5af696d13dea)
 
 # Link de referencias
